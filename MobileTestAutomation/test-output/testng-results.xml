@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-17T11:30:39Z" name="Default suite" finished-at="2023-12-17T11:31:48Z" duration-ms="68764">
+    <groups>
+    </groups>
+    <test started-at="2023-12-17T11:30:39Z" name="Default test" finished-at="2023-12-17T11:31:48Z" duration-ms="68764">
+      <class name="journeyTest.MobileTestAutomation.GetEmailFromPost">
+        <test-method is-config="true" signature="AndroidSetup()[pri:0, instance:journeyTest.MobileTestAutomation.GetEmailFromPost@7922d892]" started-at="2023-12-17T11:30:39Z" name="AndroidSetup" finished-at="2023-12-17T11:31:15Z" duration-ms="35972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidSetup -->
+        <test-method signature="getEmailFromPost()[pri:0, instance:journeyTest.MobileTestAutomation.GetEmailFromPost@7922d892]" started-at="2023-12-17T11:31:15Z" name="getEmailFromPost" finished-at="2023-12-17T11:31:46Z" duration-ms="30603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEmailFromPost -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:journeyTest.MobileTestAutomation.GetEmailFromPost@7922d892]" started-at="2023-12-17T11:31:46Z" name="tearDown" finished-at="2023-12-17T11:31:48Z" duration-ms="2090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- journeyTest.MobileTestAutomation.GetEmailFromPost -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
